@@ -17,5 +17,5 @@ Self-Customized AdBlockList.
 
 
 
-This Project has been archived by [Neodevhost project](https://github.com/neodevpro/neodevhost)
+This Project has been archived by [Neodevhost project](https://github.com/neodevpro/neodevhost).
 
