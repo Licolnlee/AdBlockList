@@ -3,14 +3,14 @@ Self-Customized AdBlockList.
 
 Mainland China users that can't access github domain properly can subscribe the lists through mirror site .
 
-#### Ad domain list: 
+#### Ad domain list lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
 
 #### Ad whitelist:
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
-#### Ad domain testing list:
-> `Adblock-test.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/Adblock-test.txt)
+#### Ad domain ultra list:
+> `AdblockUltra.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/Adblock-test.txt)
 
 #### AdBlock(AdguardHome):
 > `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
