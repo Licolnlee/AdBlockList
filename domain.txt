@@ -13,6 +13,7 @@
 a-dxk.play.api.3g.youku.com
 actives.youku.com
 ad-brix.com
+ad.api.3g.tudou.com
 ad.api.3g.youku.com
 ad.api.mobile.youku.com
 ad.duapps.com
@@ -45,6 +46,7 @@ adsp.xunlei.com
 adsystem.wasu.tv
 adwasu.wasu.tv
 afd.l.google.com
+afp.pplive.com
 afp.qiyi.com
 agn.aty.sohu.com
 alimama.com
@@ -68,8 +70,10 @@ c.yes.youku.com
 cbjs.baidu.com
 cc.xtgreat.com
 cj.qidian.com
+ckm.iqiyi.com
 click.cm.kankan.com
 cm.ipinyou.com
+cm.passport.iqiyi.com
 cm.zhiziyun.com
 cnt.ppmoney.com
 cocounion.com
@@ -86,6 +90,8 @@ da.hunantv.com
 das.api.youku.com
 das.mobile.youku.com
 data.vod.itc.cn
+dc.letv.com
+de.as.pptv.com
 de.soquair.com
 delivery.dmkt-sp.jp
 dev-push.m.youku.com
@@ -176,6 +182,7 @@ material.ssp.xunlei.com
 material.xl7.xunlei.com
 mengmob.com
 mfp.deliver.ifeng.com
+miaozhen.com
 minisite.letv.com
 mmg.aty.sohu.com
 mobads-logs.baidu.com
@@ -187,8 +194,10 @@ mobile2.da.mgtv.com
 mobilemsg.youku.com
 mp4.res.hunantv.com
 msg.client.xunlei.com
+msg.video.qiyi.com
 msg.youku.com
 msg2.client.xunlei.com
+msg2.video.qiyi.com
 msga.cupid.iqiyi.com
 myes.youku.com
 n-st.vip.com
@@ -202,19 +211,27 @@ o.if.qidian.com
 p-log.ykimg.com
 p.l.ykimg.com
 p.l.youku.com
+pagead-tpc.l.google.com
+pagead.google.com
 pagead.googlesyndication.com
+pagead.l.google.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
+paopao.iqiyi.com
+partnerad.l.google.com
 passport-log.youku.com
 pb3.pstatp.com
 plog.dc.letv.com
 pop.uusee.com
 pos.baidu.com
+pp2.pptv.com
 pq.stat.ku6.com
 pro.cn
 pro.hoye.letv.com
 pro.letv.com
+pubads.g.doubleclick.net
+push.m.youku.com
 pv.cnzz.leiouxiong.com
 pv.xmp.stat.xunlei.com
 r.l.youku.com
@@ -244,6 +261,7 @@ st.vq.ku6.cn
 stadig.ifeng.com
 stat.download.xunlei.com
 stat.letv.com
+stat.pptv.com
 stat.tudou.com
 stat.youku.com
 static.bshare.cn
@@ -278,6 +296,7 @@ ut2.shuqistat.com
 v.l.youku.com
 val.api.youku.com
 vfs.admaster.com.cn
+vqq.admaster.com.cn
 vsohu.admaster.com.cn
 vsoon.com
 wan.youku.com
@@ -288,6 +307,7 @@ x.da.hunantv.com
 x.da.mgtv.com
 xl7.cash.xunlei.com
 xl7xml.client.xunlei.com
+xs.houyi.baofeng.net
 xyrkl.com
 y.da.hunantv.com
 y.da.mgtv.com
