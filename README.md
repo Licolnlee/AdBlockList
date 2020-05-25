@@ -23,7 +23,5 @@ Mainland China users that can't access github domain properly can subscribe the 
 
 > `AdBlock-dnsmasq` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq)
 
-This repository is just an ad domain archive.
-
 This Project has been archived by [Neodevhost project](https://github.com/neodevpro/neodevhost).
 
