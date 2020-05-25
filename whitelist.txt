@@ -56,7 +56,7 @@ yhd.com
 25pp.com
 hucdn.com
 51240.com
-address=\/.51cto.com
+\/.51cto.com
 pcvideoaliyun.titan.mgtv.com
 pl.cp12.wasu.tv
 ojrq.net
