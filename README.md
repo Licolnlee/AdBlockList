@@ -11,13 +11,13 @@ Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland Chin
 > `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
 
 #### AdBlock(AdguardHome):
-> `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
+> `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
 
 #### AdBlock-dnsmasq(Host):
 > `AdBlock-dnsmasq` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq)
 
-#### AdWhitelist(AdguardHome):
-> `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdWhite) | [Mirror](https://licolnlee.icu/AdBlockList/AdWhite)
+#### AdWhite(AdguardHome):
+> `AdWhite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdWhite) | [Mirror](https://licolnlee.icu/AdBlockList/AdWhite)
 
  This Project has been archived by [Neodevhost project](https://github.com/neodevpro/neodevhost).
 
