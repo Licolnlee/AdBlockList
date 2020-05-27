@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 2020052500
+! Version: 2020052700
 ! Title:  Licolnlee's AdBlock-dnsmasq
-! Last modified: 2020/05/25 21:24:27 +0800
+! Last modified: 2020/05/27 21:24:27 +0800
 
 ##########################
 127.0.0.1 localhost
@@ -18,7 +18,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-##########################
+########################
+
 
 127.0.0.1 .ad-brix.com
 127.0.0.1 .adlive.cn
@@ -485,6 +486,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 9s6q.cn
 127.0.0.1 9tn.cc
 127.0.0.1 9wushuo.com
+127.0.0.1 [Adblock Plus 2.1]
 127.0.0.1 a-dxk.play.api.3g.youku.com
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 a.198banjia.com
@@ -681,9 +683,11 @@ ff02::3 ip6-allhosts
 127.0.0.1 ad-android.51wnl.com
 127.0.0.1 ad-beta.flipboard.com
 127.0.0.1 ad-brix.com
+127.0.0.1 ad-channel.woyeahgo.tk
 127.0.0.1 ad-cloud.jp
 127.0.0.1 ad-cn.jovcloud.com
 127.0.0.1 ad-delivery.net
+127.0.0.1 ad-display.wikawika.xyz
 127.0.0.1 ad-gb.mgid.com
 127.0.0.1 ad-locus.com
 127.0.0.1 ad-plus.cn
@@ -889,8 +893,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ad3.udn.com
 127.0.0.1 ad373.com
 127.0.0.1 ad4.bigmir.net
-127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.sina.com
+127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.udn.com
 127.0.0.1 ad4game.com
 127.0.0.1 ad5.bigmir.net
@@ -1034,8 +1038,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 admarket.21cn.com
 127.0.0.1 admarket.mobi
 127.0.0.1 admarvel.com
-127.0.0.1 admaster.com.cn
 127.0.0.1 admaster.com
+127.0.0.1 admaster.com.cn
 127.0.0.1 admd.yam.com
 127.0.0.1 admedia.com
 127.0.0.1 admeta.vo.llnwd.net
@@ -1328,8 +1332,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 afpeng.alimama.com
-127.0.0.1 afpimages.eastday.com
 127.0.0.1 afpimages.eastday
+127.0.0.1 afpimages.eastday.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 afpssp.alimama.com
 127.0.0.1 afptrack.alimama.com
@@ -1582,6 +1586,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 apollo.caixin.com
 127.0.0.1 app-ad.variflight.com
 127.0.0.1 app-adforce.jp
+127.0.0.1 app-advertise.zhihuishu.com
 127.0.0.1 app-g.39.net
 127.0.0.1 app-measurement.com
 127.0.0.1 app-monitor.ele.me
@@ -2159,8 +2164,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
-127.0.0.1 c.msn.com.cn
 127.0.0.1 c.msn.com
+127.0.0.1 c.msn.com.cn
 127.0.0.1 c.netu.tv
 127.0.0.1 c.ningbojipiao.com
 127.0.0.1 c.ns8d.com
@@ -2417,8 +2422,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 chartbeat.net
 127.0.0.1 chartboost.com
 127.0.0.1 chebse.com
-127.0.0.1 chemdraw.com.cn
 127.0.0.1 chemdraw.com
+127.0.0.1 chemdraw.com.cn
 127.0.0.1 chengadx.com
 127.0.0.1 chenggao.cn
 127.0.0.1 chengzhao95511.com
@@ -2433,8 +2438,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 chjxzk.1555110.cn
 127.0.0.1 chmae.com
 127.0.0.1 chnhty.com
-127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 choice.microsoft.com
+127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 chuantu.biz
 127.0.0.1 chushoushijian.cn
 127.0.0.1 ci.csefaazc.net
@@ -2518,8 +2523,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cloud.rovio.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 cloudad.asia
-127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.dopa.com
+127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 cloudmobi.net
 127.0.0.1 cloudpush.iqiyi.com
@@ -2582,8 +2587,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cnkok.com
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 cnnic.cn
-127.0.0.1 cnnic.net.cn
 127.0.0.1 cnnic.net
+127.0.0.1 cnnic.net.cn
 127.0.0.1 cnpinzhuo.com
 127.0.0.1 cnscdj.com
 127.0.0.1 cnshef.com
@@ -2668,8 +2673,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 coop.pop.baofeng.com
 127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 cootek-file.cdn.cootekservice.com
-127.0.0.1 cop.my.xunlei.com
 127.0.0.1 cop.my
+127.0.0.1 cop.my.xunlei.com
 127.0.0.1 coreldrawchina.com
 127.0.0.1 coremetrics.com
 127.0.0.1 corner.houyi.baofeng.net
@@ -3162,6 +3167,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 dn-growing.qbox.me
 127.0.0.1 dn3.ixinwei.com
 127.0.0.1 dn7788.com
+127.0.0.1 dns.jd.com
 127.0.0.1 dnvus.com
 127.0.0.1 do-not-tracker.org
 127.0.0.1 do.lymstsc.com
@@ -3826,6 +3832,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 float.kankan.com
 127.0.0.1 float.sandai.net
 127.0.0.1 flowcodeapp.com
+127.0.0.1 flowplus.meituan.net
 127.0.0.1 flstudiochina.com
 127.0.0.1 flurry.cachefly.net
 127.0.0.1 flurry.com
@@ -4094,8 +4101,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 gma1.com
 127.0.0.1 gmota.g188.net
 127.0.0.1 gmtdmp.mookie1.com
-127.0.0.1 go-mpulse.net
 127.0.0.1 go-mpulse
+127.0.0.1 go-mpulse.net
 127.0.0.1 go.gogolm.xyz
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.gotourls.bid
@@ -4365,8 +4372,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 huimee.net
-127.0.0.1 huishenghuiying.com.cn
 127.0.0.1 huishenghuiying.com
+127.0.0.1 huishenghuiying.com.cn
 127.0.0.1 humanding.com
 127.0.0.1 hunpingou.com
 127.0.0.1 huodong.ios.shouji.360.cn
@@ -4413,6 +4420,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 i.clkservice.youdao.com
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 i.flow.browser.oppomobile.com
+127.0.0.1 i.gdt.qq.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 i.haloapps.com
 127.0.0.1 i.hao61.net
@@ -4434,8 +4442,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 i.w55c.net
 127.0.0.1 i.zhuoyaju.com
 127.0.0.1 i1.go2yd.com
-127.0.0.1 i1.services.social.microsoft.com.nsatc.net
 127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com.nsatc.net
 127.0.0.1 i1236.net
 127.0.0.1 i2.akjunshi.com
 127.0.0.1 i2000.xyz
@@ -4493,8 +4501,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iflow.minfo.baofeng.net
 127.0.0.1 iflow.uczzd.cn
-127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.com
+127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
 127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 iframe.travel.yahoo.com
@@ -4566,8 +4574,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 img.9duw.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 img.adbox.sina.com.cn
-127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.adnyg.com
+127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.alimama.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 img.applovin.com
@@ -4770,8 +4778,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 iperceptions.com
 127.0.0.1 iphonelog.shouji.baofeng.com
 127.0.0.1 ipic.staticsdo.com
-127.0.0.1 ipinyou.com.cn
 127.0.0.1 ipinyou.com
+127.0.0.1 ipinyou.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 iqiyi.irs01.com
@@ -4914,8 +4922,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 jifeidandar.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 jifendownload.2345.cn
-127.0.0.1 jihehuaban.com.cn
 127.0.0.1 jihehuaban.com
+127.0.0.1 jihehuaban.com.cn
 127.0.0.1 jimdo.com
 127.0.0.1 jimeilm.com
 127.0.0.1 jindu179.com
@@ -5863,8 +5871,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 m.xiangchim0.com
 127.0.0.1 m.xikdn.com
 127.0.0.1 m.xingxd.com
-127.0.0.1 m.xkqpco.com.com
 127.0.0.1 m.xkqpco.com
+127.0.0.1 m.xkqpco.com.com
 127.0.0.1 m.xlsschina15.net
 127.0.0.1 m.xmgysweb.com
 127.0.0.1 m.xpjis.com
@@ -5932,8 +5940,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 mainbx.com
 127.0.0.1 maipinshangmao.com
 127.0.0.1 mairuan.cn
-127.0.0.1 mairuan.com.cn
 127.0.0.1 mairuan.com
+127.0.0.1 mairuan.com.cn
 127.0.0.1 mairuan.net
 127.0.0.1 mairuanwang.com
 127.0.0.1 maisoncherry.com
@@ -6479,12 +6487,12 @@ ff02::3 ip6-allhosts
 127.0.0.1 oascentral.hosted.ap.org
 127.0.0.1 oascentral.lycos.com
 127.0.0.1 oascentral.newsmax.com
-127.0.0.1 oascentral.sina.com.hk
 127.0.0.1 oascentral.sina.com
+127.0.0.1 oascentral.sina.com.hk
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 obeyter.com
-127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1 ocbv0.baiyangzs.com
 127.0.0.1 ocsp.godaddy.com
 127.0.0.1 odb.outbrain.com
@@ -6547,8 +6555,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 optimizely.com
 127.0.0.1 optimizelyapis.com
-127.0.0.1 optimus-ads.amap.com.w.alikunlun.com
 127.0.0.1 optimus-ads.amap.com
+127.0.0.1 optimus-ads.amap.com.w.alikunlun.com
 127.0.0.1 optimus.ipinyou.com
 127.0.0.1 oq68.com
 127.0.0.1 orchidscape.net
@@ -6556,6 +6564,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 oredero.com
 127.0.0.1 orz.hupu.com
 127.0.0.1 osc.uranus.sogou.com
+127.0.0.1 oset-api.open-adx.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 oss-asq-static.11222.cn
 127.0.0.1 osupdateservice.yunos.com
@@ -7582,6 +7591,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 sdk.open.talk.igexin.com
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkapp.uve.weibo.com
+127.0.0.1 sdkauth.hpplay.cn
 127.0.0.1 sdkclick.com
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
@@ -7820,8 +7830,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 sp3.cndm.com
 127.0.0.1 spad.i-mobile.co.jp
 127.0.0.1 spade.twitch.tv
-127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 spap.adingo.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 spb.bid.run
 127.0.0.1 spcdnpc.i-mobile.co.jp
@@ -7868,8 +7878,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ss.sysad.cn
 127.0.0.1 ss.sysadult.cn
 127.0.0.1 ssac.suning.com
-127.0.0.1 sscefsol.com.cn
 127.0.0.1 sscefsol.com
+127.0.0.1 sscefsol.com.cn
 127.0.0.1 ssdaili.com
 127.0.0.1 ssdk.adkmob.com
 127.0.0.1 ssh.hxlif.com
@@ -8339,6 +8349,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tj.b.qq.com
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 tj.kugou.com
+127.0.0.1 tj.playcvn.com
 127.0.0.1 tj.tongjiwo.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 tjawst.com
@@ -8442,6 +8453,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ttts.leztc.com
 127.0.0.1 ttts.miyue17.com
 127.0.0.1 tu.baixing.com
+127.0.0.1 tu.cvnad.com
 127.0.0.1 tu.njflfd.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 tuadong.com
@@ -8538,8 +8550,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ucstat.baidu.com
 127.0.0.1 ucus.ucweb.com
 127.0.0.1 ucxxii.com
-127.0.0.1 uczzd.com.cn
 127.0.0.1 uczzd.com
+127.0.0.1 uczzd.com.cn
 127.0.0.1 uczzd.net
 127.0.0.1 udata.mixmarket.biz
 127.0.0.1 udc.msn.com
@@ -8720,6 +8732,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
 127.0.0.1 v2.da.mgtv.com
 127.0.0.1 v2.fm.n.duokanbox.com
+127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v2.hd.log.hunantv.com
 127.0.0.1 v2.hdd.log.hunantv.com
 127.0.0.1 v2.jiathis.com
@@ -9218,11 +9231,11 @@ ff02::3 ip6-allhosts
 127.0.0.1 xia.ediuschina.com
 127.0.0.1 xia.flstudiochina.com
 127.0.0.1 xia.guitarpro.cc
-127.0.0.1 xia.huishenghuiying.com.cn
 127.0.0.1 xia.huishenghuiying.com
+127.0.0.1 xia.huishenghuiying.com.cn
 127.0.0.1 xia.imindmap.cc
-127.0.0.1 xia.jihehuaban.com.cn
 127.0.0.1 xia.jihehuaban.com
+127.0.0.1 xia.jihehuaban.com.cn
 127.0.0.1 xia.keyshot.cc
 127.0.0.1 xia.kingdeecn.cn
 127.0.0.1 xia.logoshejishi.com
