@@ -1,4 +1,9 @@
-#whitelist
+ [Adblock Plus 2.1]
+! Version: 2020052700
+! Title:  Licolnlee's whitelist
+! Last modified: 2020/05/27 21:24:27 +0800
+
+
 25pp.com
 51240.com
 51cto.com
@@ -9,6 +14,7 @@ addthisedge.com
 ai.m.taobao.com
 ai.taobao.com
 aka.ms
+analytics.google.com
 answers.microsoft.com
 api.io.mi.com
 asus.com
@@ -38,8 +44,8 @@ down.360safe.com
 download.windowsupdate.com
 dropbox.com
 duckduckgo.com
-ebay.com
 ebay.com.au
+ebay.com
 elb-ore-amz.nimbus.bitdefender.net
 energyaustralia.com.au
 epicgames.com
@@ -63,8 +69,8 @@ jd.com
 jdownloader.org
 ju.taobao.com
 lastpass.com
-localhost
 localhost.megasyncloopback.mega.nz
+localhost
 login.live.com
 login.microsoftonline.com
 mail.google.com
@@ -97,11 +103,13 @@ slscr.update.microsoft.com
 softdl.ijinshan.com
 softmgr.duba.net
 speedtest.net
+ssl.google-analytics.com
 standardnotes.org
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 t5.baidu.com
+tagmanager.google.com
 teams.microsoft.com
 tejia.taobao.com
 telemetry.malwarebytes.com
@@ -120,8 +128,10 @@ visualstudio.com
 vortex.data.microsoft.com
 wandoujia.com
 webtatic.com
+whitelist
 wire.com
 woolworths.com.au
+www.google-analytics.com
 www.imageto.org
 yhd.com
 zhushou.360.cn
