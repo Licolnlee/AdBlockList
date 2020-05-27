@@ -1,5 +1,5 @@
 # AdBlockList
-Self-Customized AdBlockList.(Mainland China users that can't access github domain properly can subscribe the lists through mirror site.)
+Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland China users that can't access github domain properly can subscribe the lists through mirror site.)
 
 #### Ad domain list lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
