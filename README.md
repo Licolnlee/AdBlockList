@@ -8,7 +8,7 @@ Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland Chin
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
 #### Ad domain ultra list:
-> `AdBlockUltra.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/Adblock-test.txt)
+> `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/Adblock-test.txt)
 
 #### AdBlock(AdguardHome):
 > `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/Adblock-test.txt) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
