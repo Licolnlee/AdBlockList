@@ -1,7 +1,26 @@
-[Adblock Plus 2.1]
-! Last modified: 2020/05/28 21:24:27 +0800
-! Title:  Licolnlee's AdBlockUltra
-! Version: 2020052800
+ [Adblock Plus 2.1]
+! Version: 2020053100
+! Title:  Licolnlee's AdBlockTest-dnsmasq
+! Last modified: 2020/05/31 21:24:27 +0800
+
+
+##########################
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+########################
+
 
 127.0.0.1 *.m.biqugewx.com
 127.0.0.1 .09mk.cn
@@ -97214,6 +97233,7 @@
 127.0.0.1 truthordarepics.com
 127.0.0.1 truthpoliticsnews.com
 127.0.0.1 truvidplayer.com
+127.0.0.1 trvdp.com
 127.0.0.1 trvelocity.com
 127.0.0.1 trvlnet-images.adbureau.net
 127.0.0.1 trvlnet.adbureau.net

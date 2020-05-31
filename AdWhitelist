@@ -1,7 +1,7 @@
  [Adblock Plus 2.1]
-! Version: 2020052700
+! Version: 2020053100
 ! Title:  Licolnlee's AdWhitelist
-! Last modified: 2020/05/27 21:24:27 +0800
+! Last modified: 2020/05/31 21:24:27 +0800
 
 
 @@||25pp.com^$important
@@ -103,7 +103,6 @@
 @@||softdl.ijinshan.com^$important
 @@||softmgr.duba.net^$important
 @@||speedtest.net^$important
-@@||ssl.google-analytics.com^$important
 @@||standardnotes.org^$important
 @@||t10.baidu.com^$important
 @@||t11.baidu.com^$important
@@ -131,7 +130,6 @@
 @@||whitelist^$important
 @@||wire.com^$important
 @@||woolworths.com.au^$important
-@@||www.google-analytics.com^$important
 @@||www.imageto.org^$important
 @@||yhd.com^$important
 @@||zhushou.360.cn^$important

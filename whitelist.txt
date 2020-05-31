@@ -1,7 +1,7 @@
  [Adblock Plus 2.1]
-! Version: 2020052700
+! Version: 2020053100
 ! Title:  Licolnlee's whitelist
-! Last modified: 2020/05/27 21:24:27 +0800
+! Last modified: 2020/05/31 21:24:27 +0800
 
 
 25pp.com
