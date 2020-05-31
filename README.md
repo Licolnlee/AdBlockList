@@ -3,7 +3,7 @@ Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland Chin
 
 Update period: Casual
 
-AdTest may manslaughters dozens of unnecessary domains.Please proceed with caution or report a issue.
+AdTest may manslaughters dozens of unnecessary domains.Please proceed with caution or report an issue.
  
 #### AdDomain Lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
