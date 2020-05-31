@@ -1,7 +1,7 @@
-[Adblock Plus 2.1]
-! Version: 2020052700
-! Title:  Licolnlee's AdBlock-dnsmasq
-! Last modified: 2020/05/27 21:24:27 +0800
+ [Adblock Plus 2.1]
+! Version: 2020053100
+! Title:  Licolnlee's AdBlockUltra
+! Last modified: 2020/05/31 21:24:27 +0800
 
 ##########################
 127.0.0.1 localhost
@@ -19,7 +19,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ########################
-
 
 127.0.0.1 .ad-brix.com
 127.0.0.1 .adlive.cn
@@ -1254,6 +1253,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adv.bandi.so
 127.0.0.1 adv.ccb.com
+127.0.0.1 adv.ettoday.net
 127.0.0.1 adv.fjtv.net
 127.0.0.1 adv.jxnews.com.cn
 127.0.0.1 adv.madserving.com
@@ -1265,6 +1265,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adver.qq.com
 127.0.0.1 advertise.baicizhan.com
 127.0.0.1 advertise.baicizhan.org
+127.0.0.1 advertising.com
 127.0.0.1 advertising.com
 127.0.0.1 adview.cn
 127.0.0.1 advmob.cn
@@ -3608,6 +3609,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edge.sharethis.com
 127.0.0.1 edge.yunjiasu.com
+127.0.0.1 edgecast-vod.yimg.com
 127.0.0.1 edigitalsurvey.com
 127.0.0.1 ediuschina.com
 127.0.0.1 edncui.net
@@ -4119,10 +4121,12 @@ ff02::3 ip6-allhosts
 127.0.0.1 good.ta80.com
 127.0.0.1 goods.tudou.com
 127.0.0.1 google-analytics.com
+127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googleadsserving.cn
 127.0.0.1 googlecommerce.com
+127.0.0.1 googlesyndication.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
@@ -8431,6 +8435,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 trustx.org
+127.0.0.1 trvdp.com
 127.0.0.1 trwba.com
 127.0.0.1 trzina.com
 127.0.0.1 ts.hivecn.cn
