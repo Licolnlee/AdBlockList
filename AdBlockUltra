@@ -1,7 +1,8 @@
  [Adblock Plus 2.1]
-! Version: 2020052700
+! Version: 2020053100
 ! Title:  Licolnlee's AdBlockUltra
-! Last modified: 2020/05/27 21:24:27 +0800
+! Last modified: 2020/05/31 21:24:27 +0800
+
 
 .ad-brix.com
 .adlive.cn
@@ -1236,6 +1237,7 @@ aduu.cn
 adv.app.qq.com
 adv.bandi.so
 adv.ccb.com
+adv.ettoday.net
 adv.fjtv.net
 adv.jxnews.com.cn
 adv.madserving.com
@@ -1247,6 +1249,7 @@ advapi.ahtv.cn
 adver.qq.com
 advertise.baicizhan.com
 advertise.baicizhan.org
+advertising.com
 advertising.com
 adview.cn
 advmob.cn
@@ -3590,6 +3593,7 @@ edesf.xyzxmark.cn
 edge.quantserve.com
 edge.sharethis.com
 edge.yunjiasu.com
+edgecast-vod.yimg.com
 edigitalsurvey.com
 ediuschina.com
 edncui.net
@@ -4101,10 +4105,12 @@ golden1.sogou.com
 good.ta80.com
 goods.tudou.com
 google-analytics.com
+google-analytics.com
 googleads.g.doubleclick.net
 googleadservices.com
 googleadsserving.cn
 googlecommerce.com
+googlesyndication.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -8413,6 +8419,7 @@ tree.logger.baofeng.com
 trends.mobile.sina.cn
 trial.alcohol-soft.com
 trustx.org
+trvdp.com
 trwba.com
 trzina.com
 ts.hivecn.cn
