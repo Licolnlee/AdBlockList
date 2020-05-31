@@ -1,3 +1,4 @@
+#adblock
 .ad-brix.com
 .adlive.cn
 .adsmogo.com
@@ -44,6 +45,8 @@ adsmogo.net
 adsmogo.org
 adsp.xunlei.com
 adsystem.wasu.tv
+adv.ettoday.net
+advertising.com
 adwasu.wasu.tv
 afd.l.google.com
 afp.pplive.com
@@ -106,6 +109,7 @@ dup.baidustatic.com
 dwtrack.qidian.com
 e.stat.ykimg.com
 e701.net
+edgecast-vod.yimg.com
 ehg-youtube.hitbox.com
 eiv.baidu.com
 fastapi.net
@@ -122,10 +126,12 @@ gas.data.pplive.com
 gcdn.2mdn.net
 gg.jtertp.com
 goods.tudou.com
+google-analytics.com
 googleads.g.doubleclick.net
 googleadservices.com
 googleadsserving.cn
 googlecommerce.com
+googlesyndication.com
 googletagmanager.com
 googletagservices.com
 guanggaoad.youku.com
@@ -286,6 +292,7 @@ tips.v.xunlei.com
 tips.xmp.client.kanimg.com
 tj.g.pptv.com
 tongji.qidian.com
+trvdp.com
 uedas.qdmm.com
 uedas.qidian.com
 union.6.cn
