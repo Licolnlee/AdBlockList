@@ -14,7 +14,6 @@ addthisedge.com
 ai.m.taobao.com
 ai.taobao.com
 aka.ms
-analytics.google.com
 answers.microsoft.com
 api.io.mi.com
 asus.com
@@ -103,7 +102,6 @@ slscr.update.microsoft.com
 softdl.ijinshan.com
 softmgr.duba.net
 speedtest.net
-ssl.google-analytics.com
 standardnotes.org
 t10.baidu.com
 t11.baidu.com
@@ -131,7 +129,6 @@ webtatic.com
 whitelist
 wire.com
 woolworths.com.au
-www.google-analytics.com
 www.imageto.org
 yhd.com
 zhushou.360.cn
