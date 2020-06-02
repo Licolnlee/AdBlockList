@@ -137,7 +137,6 @@ googleads.g.doubleclick.net
 googleadservices.com
 googleadsserving.cn
 googlecommerce.com
-googlesyndication.com
 googletagmanager.com
 googletagservices.com
 guanggaoad.youku.com
