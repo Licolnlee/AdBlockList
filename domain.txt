@@ -41,6 +41,7 @@ ads.aplusapi.pptv.com
 ads.cdn.tvb.com
 ads.google.com
 ads.wasu.tv
+ads.yap.yahoo.com
 ads.youtube.com
 adsage.com
 adscdn.baidu.com
