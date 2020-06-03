@@ -1,9 +1,7 @@
  [Adblock Plus 2.1]
-! Version: 2020053100
-! Title:  Licolnlee's domainlist
 ! Last modified: 2020/05/31 21:24:27 +0800
-
-
+! Title:  Licolnlee's domainlist
+! Version: 2020053100
 .ad-brix.com
 .adlive.cn
 .adsmogo.com
@@ -130,10 +128,10 @@ game.qidian.com
 gamex.mobile.youku.com
 gas.data.pplive.com
 gcdn.2mdn.net
+gemini.yahoo.com
 gg.jtertp.com
 goods.tudou.com
 google-analytics.com
-googleads.g.doubleclick.net
 googleadservices.com
 googleadsserving.cn
 googlecommerce.com
@@ -224,11 +222,7 @@ p.l.ykimg.com
 p.l.youku.com
 pagead-tpc.l.google.com
 pagead.google.com
-pagead.googlesyndication.com
 pagead.l.google.com
-pagead1.googlesyndication.com
-pagead2.googlesyndication.com
-pagead3.googlesyndication.com
 paopao.iqiyi.com
 partnerad.l.google.com
 passport-log.youku.com
@@ -241,7 +235,6 @@ pq.stat.ku6.com
 pro.cn
 pro.hoye.letv.com
 pro.letv.com
-pubads.g.doubleclick.net
 push.m.youku.com
 pv.cnzz.leiouxiong.com
 pv.xmp.stat.xunlei.com
