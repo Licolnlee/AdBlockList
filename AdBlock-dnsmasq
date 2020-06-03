@@ -3,7 +3,6 @@
 ! Title:  Licolnlee's AdBlock-dnsmasq
 ! Last modified: 2020/05/31 21:24:27 +0800
 
-
 ##########################
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -20,7 +19,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ########################
-
 
 127.0.0.1 .ad-brix.com
 127.0.0.1 .adlive.cn
@@ -1268,7 +1266,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 adver.qq.com
 127.0.0.1 advertise.baicizhan.com
 127.0.0.1 advertise.baicizhan.org
-127.0.0.1 advertising.com
 127.0.0.1 advertising.com
 127.0.0.1 adview.cn
 127.0.0.1 advmob.cn
@@ -4124,12 +4121,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 good.ta80.com
 127.0.0.1 goods.tudou.com
 127.0.0.1 google-analytics.com
-127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googleadsserving.cn
 127.0.0.1 googlecommerce.com
-127.0.0.1 googlesyndication.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
