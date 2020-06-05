@@ -13,6 +13,8 @@ addthis.com
 addthisedge.com
 ai.m.taobao.com
 ai.taobao.com
+alicdn.com
+alidns.com
 aka.ms
 answers.microsoft.com
 api.io.mi.com
@@ -31,6 +33,7 @@ crapblock.theel0ja.info
 ctldl.windowsupdate.com
 dashlane.com
 dc.services.visualstudio.com
+digicert.com
 discordapp.com
 dl.360safe.com
 dl.app.ijinshan.com
