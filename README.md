@@ -8,8 +8,11 @@ AdTest may manslaughters dozens of unnecessary domains.Please proceed with cauti
 #### AdDomain Lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
 
-#### Adwhitelist:
+#### AdDomain whitelist:
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
+
+#### AdWhitelist:
+> `AdWhitelist'`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdWhitelist) | [Mirror](https://licolnlee.icu/AdBlockList/AdWhitelist)
 
 #### AdBlockUltra:
 > `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
