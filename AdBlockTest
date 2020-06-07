@@ -1,7 +1,7 @@
- [Adblock Plus 2.1]
-! Version: 2020053100
+[Adblock Plus 3.0]
+! Last modified: 2020/06/08 21:24:27 +0800
 ! Title:  Licolnlee's AdBlockTest
-! Last modified: 2020/05/31 21:24:27 +0800
+! Version: 2020060800
 
 ||*.m.biqugewx.com^
 ||.09mk.cn^
@@ -11917,7 +11917,6 @@
 ||ads.y-0.net^
 ||ads.yad2.co.il^
 ||ads.yadro.ru^
-||ads.yap.yahoo.com^
 ||ads.yahoo.com^
 ||ads.yahoo.de^
 ||ads.yaia.com^

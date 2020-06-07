@@ -1,21 +1,27 @@
- [Adblock Plus 2.1]
-! Version: 2020053100
-! Title:  Licolnlee's whitelist
-! Last modified: 2020/05/31 21:24:27 +0800
-
+ [Adblock Plus 3.0]
+! Version: 2020060800
+! Title:  Licolnlee's Whitelist
+! Last modified: 2020/06/08 21:24:27 +0800
 
 25pp.com
 51240.com
 51cto.com
+8.baidu.com
 accounts.google.com
 acctcdn.msftauth.net
 addthis.com
 addthisedge.com
+adguard.com
+adtidy.org
 ai.m.taobao.com
+ai.mi.com
 ai.taobao.com
+ai.xiaomi.com
+aka.ms
 alicdn.com
 alidns.com
-aka.ms
+alipay.com
+analytics.google.com
 answers.microsoft.com
 api.io.mi.com
 asus.com
@@ -24,8 +30,12 @@ az764295.vo.msecnd.net
 azure.microsoft.com
 bing.com
 bitdefender.net
+blizzard.cn
 c.duomai.com
+cainiaoblog.cn
+cas.baidu.com
 cdn.mwbsys.com
+cfilmcloud.cn
 click.simba.taobao.com
 cnzz.com
 coles.com.au
@@ -34,6 +44,7 @@ ctldl.windowsupdate.com
 dashlane.com
 dc.services.visualstudio.com
 digicert.com
+digitalriver.com
 discordapp.com
 dl.360safe.com
 dl.app.ijinshan.com
@@ -42,6 +53,7 @@ dl.delivery.mp.microsoft.com
 dl.ijinshan.com
 dl.liebao.cn
 docs.microsoft.com
+doubleclick.net
 down.360safe.com
 download.windowsupdate.com
 dropbox.com
@@ -54,21 +66,32 @@ epicgames.com
 fd.shouji.360.cn
 feed.baidu.com
 feedly.com
+file.market.xiaomi.com
 free.hitnews.com
 ganji.com
+geekbang.org
 geforce.com
 gfwsl.geforce.com
 github.com
+github.io
 gog.com
 gome.com.cn
+googleadservices.com
+googlesyndication.com
 guts2.sp.f-secure.com
+h5.qzone.qq.com
 hcaptcha.com
+hm.baidu.com
 hot.m.shouji.360tpcdn.com
+huangye.miui.com
 hucdn.com
+image.uczzd.cn
 imgcache.qq.com
 inoreader.com
+iplay.163.com
 jd.com
 jdownloader.org
+jr.mi.com
 ju.taobao.com
 lastpass.com
 localhost.megasyncloopback.mega.nz
@@ -76,16 +99,21 @@ localhost
 login.live.com
 login.microsoftonline.com
 mail.google.com
+map.baidu.com
 marketplace.visualstudio.com
 mediafire.com
 mega.nz
+mipay.com
+mo.baidu.com
 netflix.com$important
 nexusmods.com
 ojrq.net
 onedrive.live.com
 outlook.live.com
+pay.xiaomi.com
 paypal.com
 pcvideoaliyun.titan.mgtv.com
+photo.store.qq.com
 pl.cp12.wasu.tv
 pp.uc.cn
 privacy.microsoft.com
@@ -93,6 +121,7 @@ qiyipic.com
 qwant.com
 raindrop.io
 re.taobao.com
+s.360.cn
 s.click.taobao.com
 s.click.tmall.com
 shi.taobao.com
@@ -102,19 +131,25 @@ simba.taobao.com
 simg.sinajs.cn
 sirius.mwbsys.com
 slscr.update.microsoft.com
+sm.cn
 softdl.ijinshan.com
 softmgr.duba.net
+sp0.baidu.com
 speedtest.net
 standardnotes.org
+static.321mh.com
+t.uc.cn
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 t5.baidu.com
 tagmanager.google.com
+tanx.com
 teams.microsoft.com
 tejia.taobao.com
 telemetry.malwarebytes.com
 temai.taobao.com
+tongji.baidu.com
 toshiba.com.au
 toutiao.com
 track.uc.cn
@@ -124,6 +159,7 @@ twitch.tv
 ucan.25pp.com
 update.code.visualstudio.com
 upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net
+variety.tc.qq.com
 virustotal.com
 visualstudio.com
 vortex.data.microsoft.com
@@ -133,5 +169,6 @@ whitelist
 wire.com
 woolworths.com.au
 www.imageto.org
+xuehuayu.cn
 yhd.com
 zhushou.360.cn

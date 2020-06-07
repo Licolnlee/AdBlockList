@@ -1,7 +1,7 @@
- [Adblock Plus 2.1]
-! Version: 2020053100
+ [Adblock Plus 3.0]
+! Version: 2020060800
 ! Title:  Licolnlee's AdBlockTest-dnsmasq
-! Last modified: 2020/05/31 21:24:27 +0800
+! Last modified: 2020/06/08 21:24:27 +0800
 
 
 ##########################
@@ -20,7 +20,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ########################
-
 
 127.0.0.1 *.m.biqugewx.com
 127.0.0.1 .09mk.cn
@@ -11936,7 +11935,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 ads.y-0.net
 127.0.0.1 ads.yad2.co.il
 127.0.0.1 ads.yadro.ru
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yahoo.de
 127.0.0.1 ads.yaia.com
