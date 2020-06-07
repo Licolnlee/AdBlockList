@@ -1,6 +1,6 @@
  [Adblock Plus 3.0]
-! Version: 2020060800
 ! Title:  Licolnlee's Whitelist
+! Version: 2020060800
 ! Last modified: 2020/06/08 21:24:27 +0800
 
 25pp.com
@@ -9,10 +9,12 @@
 8.baidu.com
 accounts.google.com
 acctcdn.msftauth.net
+adash.man.aliyuncs.com
 addthis.com
 addthisedge.com
 adguard.com
 adtidy.org
+adv.sec.miui.com
 ai.m.taobao.com
 ai.mi.com
 ai.taobao.com
@@ -42,6 +44,7 @@ coles.com.au
 crapblock.theel0ja.info
 ctldl.windowsupdate.com
 dashlane.com
+data.mistat.xiaomi.com
 dc.services.visualstudio.com
 digicert.com
 digitalriver.com
@@ -58,8 +61,8 @@ down.360safe.com
 download.windowsupdate.com
 dropbox.com
 duckduckgo.com
-ebay.com.au
 ebay.com
+ebay.com.au
 elb-ore-amz.nimbus.bitdefender.net
 energyaustralia.com.au
 epicgames.com
@@ -74,6 +77,7 @@ geforce.com
 gfwsl.geforce.com
 github.com
 github.io
+gm.mmstat.com
 gog.com
 gome.com.cn
 googleadservices.com
@@ -85,6 +89,7 @@ hm.baidu.com
 hot.m.shouji.360tpcdn.com
 huangye.miui.com
 hucdn.com
+iflow.uc.cn
 image.uczzd.cn
 imgcache.qq.com
 inoreader.com
@@ -94,8 +99,8 @@ jdownloader.org
 jr.mi.com
 ju.taobao.com
 lastpass.com
-localhost.megasyncloopback.mega.nz
 localhost
+localhost.megasyncloopback.mega.nz
 login.live.com
 login.microsoftonline.com
 mail.google.com
@@ -121,6 +126,7 @@ qiyipic.com
 qwant.com
 raindrop.io
 re.taobao.com
+rpc-php.trafficfactory.biz
 s.360.cn
 s.click.taobao.com
 s.click.tmall.com

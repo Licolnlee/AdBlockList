@@ -9,10 +9,12 @@
 @@||8.baidu.com^$important
 @@||accounts.google.com^$important
 @@||acctcdn.msftauth.net^$important
+@@||adash.man.aliyuncs.com^$important
 @@||addthis.com^$important
 @@||addthisedge.com^$important
 @@||adguard.com^$important
 @@||adtidy.org^$important
+@@||adv.sec.miui.com^$important
 @@||ai.m.taobao.com^$important
 @@||ai.mi.com^$important
 @@||ai.taobao.com^$important
@@ -42,6 +44,7 @@
 @@||crapblock.theel0ja.info^$important
 @@||ctldl.windowsupdate.com^$important
 @@||dashlane.com^$important
+@@||data.mistat.xiaomi.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||digicert.com^$important
 @@||digitalriver.com^$important
@@ -58,8 +61,8 @@
 @@||download.windowsupdate.com^$important
 @@||dropbox.com^$important
 @@||duckduckgo.com^$important
-@@||ebay.com.au^$important
 @@||ebay.com^$important
+@@||ebay.com.au^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
 @@||energyaustralia.com.au^$important
 @@||epicgames.com^$important
@@ -74,6 +77,7 @@
 @@||gfwsl.geforce.com^$important
 @@||github.com^$important
 @@||github.io^$important
+@@||gm.mmstat.com^$important
 @@||gog.com^$important
 @@||gome.com.cn^$important
 @@||googleadservices.com^$important
@@ -85,6 +89,7 @@
 @@||hot.m.shouji.360tpcdn.com^$important
 @@||huangye.miui.com^$important
 @@||hucdn.com^$important
+@@||iflow.uc.cn^$important
 @@||image.uczzd.cn^$important
 @@||imgcache.qq.com^$important
 @@||inoreader.com^$important
@@ -94,8 +99,8 @@
 @@||jr.mi.com^$important
 @@||ju.taobao.com^$important
 @@||lastpass.com^$important
-@@||localhost.megasyncloopback.mega.nz^$important
 @@||localhost^$important
+@@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||mail.google.com^$important
@@ -121,6 +126,7 @@
 @@||qwant.com^$important
 @@||raindrop.io^$important
 @@||re.taobao.com^$important
+@@||rpc-php.trafficfactory.biz^$important
 @@||s.360.cn^$important
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
