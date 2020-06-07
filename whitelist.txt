@@ -39,6 +39,7 @@ cas.baidu.com
 cdn.mwbsys.com
 cfilmcloud.cn
 click.simba.taobao.com
+cntv.com
 cnzz.com
 coles.com.au
 crapblock.theel0ja.info
@@ -135,6 +136,7 @@ shouji.360.cn
 simba.m.taobao.com
 simba.taobao.com
 simg.sinajs.cn
+sinaimg.cn
 sirius.mwbsys.com
 slscr.update.microsoft.com
 sm.cn

@@ -202,8 +202,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 1000dy.com
 127.0.0.1 10010.cn
 127.0.0.1 100669.com
-127.0.0.1 10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 10086.cn
+127.0.0.1 10086.cn.baidu.cdn.yiwk.com
 127.0.0.1 100cpc.com
 127.0.0.1 100fenlm.com
 127.0.0.1 1017.cn
@@ -1066,7 +1066,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 9y88.com
 127.0.0.1 9yyg.cn
 127.0.0.1 9zvip.net
-127.0.0.1 [Adblock Plus 2.1]
 127.0.0.1 a*.chajiaotong.com
 127.0.0.1 a-ads.com
 127.0.0.1 a-dxk.play.api.3g.youku.com
@@ -1607,8 +1606,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ad3.udn.com
 127.0.0.1 ad373.com
 127.0.0.1 ad4.bigmir.net
-127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.sina.com
+127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.udn.com
 127.0.0.1 ad4game.com
 127.0.0.1 ad5.bigmir.net
@@ -1780,8 +1779,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 admartzone.com
 127.0.0.1 admarvel.com
 127.0.0.1 admarvel.top
-127.0.0.1 admaster.com.cn
 127.0.0.1 admaster.com
+127.0.0.1 admaster.com.cn
 127.0.0.1 admd.housefun.com.tw
 127.0.0.1 admd.yam.com
 127.0.0.1 admedia.com
@@ -2045,9 +2044,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 advert.kf5.com
 127.0.0.1 advertise.baicizhan.com
 127.0.0.1 advertise.baicizhan.org
+127.0.0.1 advertisement
 127.0.0.1 advertisement.alibabacorp.com
 127.0.0.1 advertisement.taobao.com
-127.0.0.1 advertisement
 127.0.0.1 advertising.com
 127.0.0.1 advertpay.vip.xunlei.com
 127.0.0.1 adview.cn
@@ -2138,8 +2137,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 afp.zol-img.com.cn
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 afpeng.alimama.com
-127.0.0.1 afpimages.eastday.com
 127.0.0.1 afpimages.eastday
+127.0.0.1 afpimages.eastday.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 afpssp.alimama.com
 127.0.0.1 afptrack.alimama.com
@@ -3390,8 +3389,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 c.mkmp365.com
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
-127.0.0.1 c.msn.com.cn
 127.0.0.1 c.msn.com
+127.0.0.1 c.msn.com.cn
 127.0.0.1 c.netu.tv
 127.0.0.1 c.ningbojipiao.com
 127.0.0.1 c.ns8d.com
@@ -3658,8 +3657,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cdn.scdng.com
 127.0.0.1 cdn.sp.rizhao9.com
 127.0.0.1 cdn.staticfile.org
-127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboola.com
+127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.tanx.com
 127.0.0.1 cdn.tianmidian.com
@@ -3750,8 +3749,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 che0.com
 127.0.0.1 chebse.com
 127.0.0.1 chehuanjie.com
-127.0.0.1 chemdraw.com.cn
 127.0.0.1 chemdraw.com
+127.0.0.1 chemdraw.com.cn
 127.0.0.1 chendjiangxing.cn
 127.0.0.1 chengadx.com
 127.0.0.1 chengboke.cn
@@ -3789,8 +3788,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 chmae.com
 127.0.0.1 chnci.com
 127.0.0.1 chnhty.com
-127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 choice.microsoft.com
+127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 chongxiaota.top
 127.0.0.1 christinehris.com
 127.0.0.1 chromc.com
@@ -3917,8 +3916,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cloud.rovio.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 cloudad.asia
-127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.dopa.com
+127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 cloudmade.com
 127.0.0.1 cloudmobi.net
@@ -3998,8 +3997,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cnlhg.cn
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 cnnic.cn
-127.0.0.1 cnnic.net.cn
 127.0.0.1 cnnic.net
+127.0.0.1 cnnic.net.cn
 127.0.0.1 cnpinzhuo.com
 127.0.0.1 cnprint.org
 127.0.0.1 cnscdj.com
@@ -4115,8 +4114,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 coostack.com
 127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 cootek-file.cdn.cootekservice.com
-127.0.0.1 cop.my.xunlei.com
 127.0.0.1 cop.my
+127.0.0.1 cop.my.xunlei.com
 127.0.0.1 corechina.net
 127.0.0.1 coreldrawchina.com
 127.0.0.1 coremetrics.com
@@ -4223,9 +4222,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 crashapi.growingio.com
 127.0.0.1 crashes.mo.wps.cn
 127.0.0.1 crasheye.cn
+127.0.0.1 crashlytics
 127.0.0.1 crashlytics.163.com
 127.0.0.1 crashlytics.com
-127.0.0.1 crashlytics
 127.0.0.1 crayon.meishichina.com
 127.0.0.1 crazymike.tw
 127.0.0.1 crdrjs.info
@@ -5556,8 +5555,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 exdynsrv.com
 127.0.0.1 exit.macandbumble.com
 127.0.0.1 exoclick.com
-127.0.0.1 exosrv.com 
 127.0.0.1 exosrv.com
+127.0.0.1 exosrv.com 
 127.0.0.1 exp.17wo.cn
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 exp.qumi.com
@@ -6218,8 +6217,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 gmtdmp.mookie1.com
 127.0.0.1 gmxyorg.cn
 127.0.0.1 gng5.cn
-127.0.0.1 go-mpulse.net
 127.0.0.1 go-mpulse
+127.0.0.1 go-mpulse.net
 127.0.0.1 go.gogolm.xyz
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.gotourls.bid
@@ -6773,8 +6772,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 huigoushop.com
 127.0.0.1 huimee.com
 127.0.0.1 huimee.net
-127.0.0.1 huishenghuiying.com.cn
 127.0.0.1 huishenghuiying.com
+127.0.0.1 huishenghuiying.com.cn
 127.0.0.1 huixingcheng.cn
 127.0.0.1 huke88.com
 127.0.0.1 hulemedia.com
@@ -6888,8 +6887,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 i000o.com
 127.0.0.1 i05h.cn
 127.0.0.1 i1.go2yd.com
-127.0.0.1 i1.services.social.microsoft.com.nsatc.net
 127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com.nsatc.net
 127.0.0.1 i1236.net
 127.0.0.1 i2.akjunshi.com
 127.0.0.1 i2000.xyz
@@ -6983,8 +6982,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ifengimg.com
 127.0.0.1 iflow.minfo.baofeng.net
 127.0.0.1 iflow.uczzd.cn
-127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.com
+127.0.0.1 iflow.uczzd.com.cn
 127.0.0.1 iflow.uczzd.net
 127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ifocus.cn
@@ -7086,8 +7085,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 img.9duw.com
 127.0.0.1 img.ad.zhangyue.com
 127.0.0.1 img.adbox.sina.com.cn
-127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.adnyg.com
+127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.ads.tvb.com
 127.0.0.1 img.alimama.cn
 127.0.0.1 img.amp.ad.sina.com.cn
@@ -7344,8 +7343,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 iperceptions.com
 127.0.0.1 iphonelog.shouji.baofeng.com
 127.0.0.1 ipic.staticsdo.com
-127.0.0.1 ipinyou.com.cn
 127.0.0.1 ipinyou.com
+127.0.0.1 ipinyou.com.cn
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 iprefer.com.tw
@@ -7590,8 +7589,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 jifen.2345.com
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 jiguangyi.com.cn
-127.0.0.1 jihehuaban.com.cn
 127.0.0.1 jihehuaban.com
+127.0.0.1 jihehuaban.com.cn
 127.0.0.1 jiirz.com
 127.0.0.1 jiliw.com
 127.0.0.1 jim86d.cn
@@ -9023,8 +9022,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 m.xiaoshuodaquan.com
 127.0.0.1 m.xikdn.com
 127.0.0.1 m.xingxd.com
-127.0.0.1 m.xkqpco.com.com
 127.0.0.1 m.xkqpco.com
+127.0.0.1 m.xkqpco.com.com
 127.0.0.1 m.xlsschina15.net
 127.0.0.1 m.xmgysweb.com
 127.0.0.1 m.xpjis.com
@@ -9127,8 +9126,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 mainbx.com
 127.0.0.1 maipinshangmao.com
 127.0.0.1 mairuan.cn
-127.0.0.1 mairuan.com.cn
 127.0.0.1 mairuan.com
+127.0.0.1 mairuan.com.cn
 127.0.0.1 mairuan.net
 127.0.0.1 mairuanwang.com
 127.0.0.1 maisoncherry.com
@@ -9990,14 +9989,14 @@ ff02::3 ip6-allhosts
 127.0.0.1 oascentral.hosted.ap.org
 127.0.0.1 oascentral.lycos.com
 127.0.0.1 oascentral.newsmax.com
-127.0.0.1 oascentral.sina.com.hk
 127.0.0.1 oascentral.sina.com
+127.0.0.1 oascentral.sina.com.hk
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 obeip.com
 127.0.0.1 obeyter.com
 127.0.0.1 obj9.cn
-127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
 127.0.0.1 ocbv0.baiyangzs.com
 127.0.0.1 ocsp.godaddy.com
 127.0.0.1 octopuszyw.cn
@@ -10104,8 +10103,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 optimizely.com
 127.0.0.1 optimizelyapis.com
-127.0.0.1 optimus-ads.amap.com.w.alikunlun.com
 127.0.0.1 optimus-ads.amap.com
+127.0.0.1 optimus-ads.amap.com.w.alikunlun.com
 127.0.0.1 optimus.ipinyou.com
 127.0.0.1 oq68.com
 127.0.0.1 orange-dc.youku.com
@@ -11944,8 +11943,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 spad.i-mobile.co.jp
 127.0.0.1 spade.twitch.tv
 127.0.0.1 spahelani.com
-127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 spap.adingo.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
 127.0.0.1 spapi.i-mobile.co.jp
 127.0.0.1 spb.bid.run
 127.0.0.1 spcdnpc.i-mobile.co.jp
@@ -12002,8 +12001,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ssaa.cc
 127.0.0.1 ssac.suning.com
 127.0.0.1 ssb.ah499.com
-127.0.0.1 sscefsol.com.cn
 127.0.0.1 sscefsol.com
+127.0.0.1 sscefsol.com.cn
 127.0.0.1 sscj123.com
 127.0.0.1 ssdaili.com
 127.0.0.1 ssdk.adkmob.com
@@ -12368,8 +12367,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 szfaq.com
 127.0.0.1 szggdw.com
 127.0.0.1 szhomes.net
-127.0.0.1 szhr.com.cn
 127.0.0.1 szhr.com
+127.0.0.1 szhr.com.cn
 127.0.0.1 szimic.cn
 127.0.0.1 szjianxin.net
 127.0.0.1 szkdst.com
@@ -13016,8 +13015,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ucweb.com
 127.0.0.1 ucxgg.com
 127.0.0.1 ucxxii.com
-127.0.0.1 uczzd.com.cn
 127.0.0.1 uczzd.com
+127.0.0.1 uczzd.com.cn
 127.0.0.1 uczzd.net
 127.0.0.1 udata.mixmarket.biz
 127.0.0.1 udbyv8918.com
@@ -13302,8 +13301,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 vali-dns.cp31.ott.cibntv.net
 127.0.0.1 vali-g1.cp31.ott.cibntv.net
 127.0.0.1 vali.cp12.wasu.tv
-127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 vali.cp31.ott.cibntv.net
+127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 valt.atm.youku.com
@@ -14090,11 +14089,11 @@ ff02::3 ip6-allhosts
 127.0.0.1 xia.ediuschina.com
 127.0.0.1 xia.flstudiochina.com
 127.0.0.1 xia.guitarpro.cc
-127.0.0.1 xia.huishenghuiying.com.cn
 127.0.0.1 xia.huishenghuiying.com
+127.0.0.1 xia.huishenghuiying.com.cn
 127.0.0.1 xia.imindmap.cc
-127.0.0.1 xia.jihehuaban.com.cn
 127.0.0.1 xia.jihehuaban.com
+127.0.0.1 xia.jihehuaban.com.cn
 127.0.0.1 xia.keyshot.cc
 127.0.0.1 xia.kingdeecn.cn
 127.0.0.1 xia.logoshejishi.com
