@@ -20,8 +20,6 @@ ai.mi.com
 ai.taobao.com
 ai.xiaomi.com
 aka.ms
-alicdn.com
-alidns.com
 alipay.com
 analytics.google.com
 answers.microsoft.com
@@ -176,6 +174,7 @@ webtatic.com
 whitelist
 wire.com
 woolworths.com.au
+www.hao123.com
 www.imageto.org
 xuehuayu.cn
 yhd.com

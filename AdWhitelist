@@ -20,8 +20,6 @@
 @@||ai.taobao.com^$important
 @@||ai.xiaomi.com^$important
 @@||aka.ms^$important
-@@||alicdn.com^$important
-@@||alidns.com^$important
 @@||alipay.com^$important
 @@||analytics.google.com^$important
 @@||answers.microsoft.com^$important
@@ -39,6 +37,7 @@
 @@||cdn.mwbsys.com^$important
 @@||cfilmcloud.cn^$important
 @@||click.simba.taobao.com^$important
+@@||cntv.cn^$important
 @@||cnzz.com^$important
 @@||coles.com.au^$important
 @@||crapblock.theel0ja.info^$important
@@ -171,10 +170,10 @@
 @@||vortex.data.microsoft.com^$important
 @@||wandoujia.com^$important
 @@||webtatic.com^$important
-@@||whitelist^$important
 @@||wire.com^$important
 @@||woolworths.com.au^$important
 @@||www.imageto.org^$important
+@@||www.hao123.com^$important
 @@||xuehuayu.cn^$important
 @@||yhd.com^$important
 @@||zhushou.360.cn^$important
