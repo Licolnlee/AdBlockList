@@ -10,11 +10,11 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdDomain Lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
 
-#### AdDomain whitelist:
+#### AdDomain allowlist lite:
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
-#### AdWhitelist:
-> `AdWhitelist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdWhitelist) | [Mirror](https://licolnlee.icu/AdBlockList/AdWhitelist)
+#### AdAllowlist:
+> `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
 
 #### AdBlockUltra:
 > `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
