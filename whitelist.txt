@@ -144,6 +144,7 @@ sp0.baidu.com
 speedtest.net
 standardnotes.org
 static.321mh.com
+s.yimg.com
 t.uc.cn
 t10.baidu.com
 t11.baidu.com
