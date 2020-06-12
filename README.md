@@ -16,6 +16,9 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdAllowlist:
 > `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
 
+#### AdBlock Lite: 
+> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-Lite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-Lite)
+
 #### AdBlockUltra:
 > `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
 
