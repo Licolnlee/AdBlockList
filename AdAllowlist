@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020060800
+! Version: 2020061200
 ! Title:  Licolnlee's AdWhite
-! Last modified: 2020/06/08 21:24:27 +0800
+! Last modified: 2020/06/12 21:24:27 +0800
 
 @@||25pp.com^$important
 @@||51240.com^$important
@@ -9,6 +9,9 @@
 @@||8.baidu.com^$important
 @@||accounts.google.com^$important
 @@||acctcdn.msftauth.net^$important
+@@||acg.tv^$important
+@@||acg.fun^$important
+@@||acgfun.com^$important
 @@||adash.man.aliyuncs.com^$important
 @@||addthis.com^$important
 @@||addthisedge.com^$important
@@ -122,6 +125,7 @@
 @@||pp.uc.cn^$important
 @@||privacy.microsoft.com^$important
 @@||qiyipic.com^$important
+@@||qq.com^$important
 @@||qwant.com^$important
 @@||raindrop.io^$important
 @@||re.taobao.com^$important

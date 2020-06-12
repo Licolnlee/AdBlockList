@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020060800
+! Version: 2020061200
 ! Title:  Licolnlee's AdBlock-dnsmasq
-! Last modified: 2020/06/08 21:24:27 +0800
+! Last modified: 2020/06/12 21:24:27 +0800
 
 ##########################
 127.0.0.1 localhost
@@ -1338,7 +1338,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 account.wps.cn
 127.0.0.1 acd.op.hicloud.com
 127.0.0.1 ace.advertising.com
-127.0.0.1 acg.tv
 127.0.0.1 acgbase.com
 127.0.0.1 acgbenzi.com
 127.0.0.1 achicih.gitee.io
@@ -3180,7 +3179,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 blogdaka.cc
 127.0.0.1 blogdaka.xyz
 127.0.0.1 bloggerads.net
-127.0.0.1 blogspot.com
 127.0.0.1 blossommo.com
 127.0.0.1 bluekai.com
 127.0.0.1 bluhostedbanners.blucigs.com
@@ -10876,7 +10874,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 qpb.sohu.com
-127.0.0.1 qq.com
 127.0.0.1 qq.guansenff.cn
 127.0.0.1 qq.henkuai.com
 127.0.0.1 qq.irs01.com

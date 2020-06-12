@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020060800
+! Version: 2020061200
 ! Title:  Licolnlee's AdDomain Lite
-! Last modified: 2020/06/08 21:24:27 +0800
+! Last modified: 2020/06/12 21:24:27 +0800
 
 .ad-brix.com
 .adlive.cn

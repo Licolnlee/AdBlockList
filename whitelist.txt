@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
+ ! Version: 2020061200
 ! Title:  Licolnlee's Whitelist
-! Version: 2020060800
-! Last modified: 2020/06/08 21:24:27 +0800
+! Last modified: 2020/06/12 21:24:27 +0800
 
 25pp.com
 51240.com
@@ -9,6 +9,9 @@
 8.baidu.com
 accounts.google.com
 acctcdn.msftauth.net
+acg.tv
+acg.fun
+acgfun.com
 adash.man.aliyuncs.com
 addthis.com
 addthisedge.com
@@ -31,6 +34,7 @@ azure.microsoft.com
 bing.com
 bitdefender.net
 blizzard.cn
+blogspot.com
 c.duomai.com
 cainiaoblog.cn
 cas.baidu.com
@@ -122,6 +126,7 @@ pl.cp12.wasu.tv
 pp.uc.cn
 privacy.microsoft.com
 qiyipic.com
+qq.com
 qwant.com
 raindrop.io
 re.taobao.com
