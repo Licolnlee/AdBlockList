@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020061200
+! Version: 2020071100
 ! Title:  Licolnlee's AdBlock-dnsmasq
-! Last modified: 2020/06/12 21:24:27 +0800
+! Last modified: 2020/07/11 21:24:27 +0800
 
 ##########################
 127.0.0.1 localhost
@@ -5524,10 +5524,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 ethod.gzgmjcx.com
 127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 etl.xlmc.sec.miui.com
-127.0.0.1 ettoday.net/banners/
-127.0.0.1 ettoday.net/events/
 127.0.0.1 ettoday.net/ad/
+127.0.0.1 ettoday.net/banners/
 127.0.0.1 ettoday.net/dfp/
+127.0.0.1 ettoday.net/events/
 127.0.0.1 eu-gmtdmp.gd1.mookie1.com
 127.0.0.1 eum-appdynamics.com
 127.0.0.1 eus.rubiconproject.com
@@ -11652,6 +11652,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 seyise8.com
 127.0.0.1 seyy66.space
 127.0.0.1 sezvc.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
 127.0.0.1 sfanf.com
 127.0.0.1 sfloushi.com
 127.0.0.1 sfxl.com.cn

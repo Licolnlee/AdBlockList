@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020061200
+! Version: 2020071100
 ! Title:  Licolnlee's AdBlockTest-dnsmasq
-! Last modified: 2020/06/12 21:24:27 +0800
+! Last modified: 2020/07/11 21:24:27 +0800
 
 
 ##########################
@@ -20,6 +20,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ########################
+
 
 127.0.0.1 *-ad.a.yximgs.com
 127.0.0.1 *.admaster.com
@@ -41883,10 +41884,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 etrk.asus.com
 127.0.0.1 ets-eu-west-1.track.smaato.net
 127.0.0.1 etsmercisely.site
-127.0.0.1 ettoday.net/banners/
-127.0.0.1 ettoday.net/events/
 127.0.0.1 ettoday.net/ad/
+127.0.0.1 ettoday.net/banners/
 127.0.0.1 ettoday.net/dfp/
+127.0.0.1 ettoday.net/events/
 127.0.0.1 etui.fs.ml.com
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 etymonline.co

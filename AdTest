@@ -1,7 +1,7 @@
  [Adblock Plus 3.0]
-! Version: 2020060800
+! Version: 2020071100
 ! Title:  Licolnlee's AdTest
-! Last modified: 2020/06/08 21:24:27 +0800
+! Last modified: 2020/07/11 21:24:27 +0800
 
 *-ad.a.yximgs.com
 *.admaster.com
@@ -41865,10 +41865,10 @@ etradesupply.org
 etrk.asus.com
 ets-eu-west-1.track.smaato.net
 etsmercisely.site
-ettoday.net/banners/
-ettoday.net/events/
 ettoday.net/ad/
+ettoday.net/banners/
 ettoday.net/dfp/
+ettoday.net/events/
 etui.fs.ml.com
 eturkcell.netmera.com
 etymonline.co
