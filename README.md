@@ -19,13 +19,13 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdListLite: 
 > `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLite)
 
-#### AdBlockLite: 
+#### AdBlockLite(AdguardHome): 
 > `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLite)
 
 #### AdListLiteTest: 
 > `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLiteTest)
 
-#### AdBlockLiteTest: 
+#### AdBlockLiteTest(AdguardHome): 
 > `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLiteTest)
 
 #### AdList:
