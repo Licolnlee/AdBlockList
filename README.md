@@ -16,11 +16,20 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdAllowlist:
 > `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
 
-#### AdBlock Lite: 
-> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-Lite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-Lite)
+#### AdListLite: 
+> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLite)
 
-#### AdBlockUltra:
-> `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
+#### AdBlockLite: 
+> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLite)
+
+#### AdListLiteTest: 
+> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLiteTest)
+
+#### AdBlockLiteTest: 
+> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLiteTest)
+
+#### AdList:
+> `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList) | [Mirror](https://licolnlee.icu/AdBlockList/AdList)
 
 #### AdBlock(AdguardHome):
 > `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
@@ -28,8 +37,8 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdBlock-dnsmasq(Host):
 > `AdBlock-dnsmasq` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq)
 
-#### AdTest:
-> `AdTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdTest)
+#### AdListTest:
+> `AdTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdListTest)
 
 #### AdBlockTest(AdguardHome):
 > `AdBlockTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockTest)
