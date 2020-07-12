@@ -27,6 +27,7 @@ alipay.com
 analytics.google.com
 answers.microsoft.com
 api.io.mi.com
+api.weibo.com
 asus.com
 au.download.windowsupdate.com
 az764295.vo.msecnd.net
@@ -161,6 +162,7 @@ teams.microsoft.com
 tejia.taobao.com
 telemetry.malwarebytes.com
 temai.taobao.com
+time.windows.com
 tongji.baidu.com
 toshiba.com.au
 toutiao.com
@@ -177,9 +179,9 @@ visualstudio.com
 vortex.data.microsoft.com
 wandoujia.com
 webtatic.com
-whitelist
 wire.com
 woolworths.com.au
+www.baidu.com
 www.hao123.com
 www.imageto.org
 xuehuayu.cn

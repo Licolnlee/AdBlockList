@@ -27,6 +27,7 @@
 @@||analytics.google.com^$important
 @@||answers.microsoft.com^$important
 @@||api.io.mi.com^$important
+@@||api.weibo.com^$important
 @@||asus.com^$important
 @@||au.download.windowsupdate.com^$important
 @@||az764295.vo.msecnd.net^$important
@@ -159,6 +160,7 @@
 @@||tejia.taobao.com^$important
 @@||telemetry.malwarebytes.com^$important
 @@||temai.taobao.com^$important
+@@||time.windows.com^$important
 @@||tongji.baidu.com^$important
 @@||toshiba.com.au^$important
 @@||toutiao.com^$important
@@ -178,6 +180,7 @@
 @@||wire.com^$important
 @@||woolworths.com.au^$important
 @@||www.imageto.org^$important
+@@||www.baidu.com^$important
 @@||www.hao123.com^$important
 @@||xuehuayu.cn^$important
 @@||yhd.com^$important
