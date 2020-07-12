@@ -5,7 +5,7 @@ Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland Chin
 Update period: Casual
 
 ## Noted:
-AdTest has a possibility of manslaughtering dozens of unnecessary domains. Please proceed with caution and report an issue.
+AdListTest and AdListLiteTest have a possibility of manslaughtering dozens of unnecessary domains. Please proceed with caution and report an issue.
  
 #### AdDomain Lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
@@ -13,14 +13,23 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdDomain allowlist lite:
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
-#### AdAllowlist:
+#### AdAllowlist(AdguardHome):
 > `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
 
-#### AdBlock Lite: 
-> `AdBlock-Lite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-Lite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-Lite)
+#### AdListLite: 
+> `AdListLite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLite)
 
-#### AdBlockUltra:
-> `AdBlockUltra` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockUltra) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockUltra)
+#### AdBlockLite(AdguardHome): 
+> `AdBlockLite` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLite)
+
+#### AdListLiteTest: 
+> `AdListLiteTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdListLiteTest)
+
+#### AdBlockLiteTest(AdguardHome): 
+> `AdBlockLiteTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLiteTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockLiteTest)
+
+#### AdList:
+> `AdList` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList) | [Mirror](https://licolnlee.icu/AdBlockList/AdList)
 
 #### AdBlock(AdguardHome):
 > `AdBlock` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock)
@@ -28,8 +37,8 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdBlock-dnsmasq(Host):
 > `AdBlock-dnsmasq` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq)
 
-#### AdTest:
-> `AdTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdTest)
+#### AdListTest:
+> `AdListTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdListTest)
 
 #### AdBlockTest(AdguardHome):
 > `AdBlockTest` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockTest) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlockTest)
