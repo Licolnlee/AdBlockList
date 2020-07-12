@@ -13,7 +13,7 @@ AdTest has a possibility of manslaughtering dozens of unnecessary domains. Pleas
 #### AdDomain allowlist lite:
 > `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
-#### AdAllowlist:
+#### AdAllowlist(AdguardHome):
 > `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
 
 #### AdListLite: 
