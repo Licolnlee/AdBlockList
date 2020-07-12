@@ -136,6 +136,7 @@ s.360.cn
 s.click.taobao.com
 s.click.tmall.com
 shi.taobao.com
+shifen.com
 shouji.360.cn
 simba.m.taobao.com
 simba.taobao.com
