@@ -5,7 +5,7 @@ Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.(Mainland Chin
 Update period: Casual
 
 ## Noted:
-AdListTest and AdListLiteTest have a possibility of manslaughtering dozens of unnecessary domains. Please proceed with caution and report an issue.
+AdListLiteTest may have a possibility of manslaughtering dozens of unnecessary domains. Please proceed with caution and report an issue.
  
 #### AdDomain Lite: 
 > `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
