@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
-! Version: 2020071200
+! Version: 2020071300
 ! Title:  Licolnlee's AdBlock
-! Last modified: 2020/07/12 21:24:27 +0800
+! Last modified: 2020/07/13 21:24:27 +0800
 
 
 ||*.ad.mi.com^
@@ -619,6 +619,7 @@
 ||39330.bet^
 ||394b8b41ac5305d.com^
 ||3975lm.com^
+||397c0.admaster.com.cn^
 ||39jz.com^
 ||39xc.net^
 ||3alian.net^
@@ -1660,6 +1661,7 @@
 ||activation.cyberlink.com^
 ||activation.easeus.com^
 ||active.baofeng.com^
+||active.tc.skysrt.com^
 ||activeqq.3g.qq.com^
 ||actives.youku.com^
 ||activities.niagara.comedycentral.com^
@@ -3074,6 +3076,7 @@
 ||api-game.meizu.com^
 ||api-push.meizu.com^
 ||api-shoulei-ssl.xunlei.com^
+||api-t.iqiyi.com^
 ||api-u-ssl.xunlei.com^
 ||api-z.weidian.com^
 ||api.0.0.0.0.cn^
@@ -3120,9 +3123,11 @@
 ||api.gi.igexin.com^
 ||api.goulegu.com^
 ||api.growingio.com^
+||api.hoisin.hw.coocaatv.com^
 ||api.iapps.ifeng.com^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
+||api.io.mi.com^
 ||api.iplay.163.com^
 ||api.itaoxiaoshuo.com^
 ||api.joybj.com^
@@ -3489,6 +3494,7 @@
 ||audiencies.ccma.cat^
 ||audiesuree.club^
 ||audit.303br.net^
+||audit.aaa.mgtv.com^
 ||audit.macworld.co.uk^
 ||audit.median.hu^
 ||audit.pcadvisor.co.uk^
@@ -3592,6 +3598,7 @@
 ||b.localpages.com^
 ||b.myspace.com^
 ||b.ndtzx.com^
+||b.netcheck.gallery.pandora.xiaomi.com^
 ||b.nujq0.cn^
 ||b.nvrentao8.com^
 ||b.pornoxo.com^
@@ -6161,6 +6168,7 @@
 ||data.qq.com^
 ||data.queryly.com^
 ||data.studybreakmedia.com^
+||data.video.qiyi.com^
 ||data.vod.itc.cn^
 ||data.waptime.cn^
 ||data.younow.com^
@@ -7672,6 +7680,7 @@
 ||f.urlet.cn^
 ||f.x91n4a.com^
 ||f.yijikm.com^
+||f.youku.com^
 ||f.yueyetiyu.com^
 ||f1.06ps.com^
 ||f1.bizhiku.net^
@@ -8172,6 +8181,7 @@
 ||g.corp.163.com^
 ||g.d.yoyi.tv^
 ||g.daman.cc^
+||g.dtv.cn.miaozhan.com^
 ||g.f11w.com^
 ||g.f5gh.com^
 ||g.gegeyingshi.com^
@@ -8272,6 +8282,7 @@
 ||galaxyns.com^
 ||galbrechen.club^
 ||galiowen.com^
+||gallery.pandora.xiaomi.com^
 ||game-res.meizu.com^
 ||game.466.com^
 ||game.51yund.com^
@@ -8819,6 +8830,7 @@
 ||guxiaom.cn^
 ||guzijie.top^
 ||gvee.top^
+||gvod.aiseejapp.atianqi.com^
 ||gw.d.ywopt.com^
 ||gw069.com^
 ||gw5.push.mcp.weibo.cn^
@@ -10080,6 +10092,7 @@
 ||iq24ne.cn^
 ||iqiyi.irs01.com^
 ||iqiyi.kim^
+||iqiyi.m.cn.miaozhen.com^
 ||iqiyi.pub^
 ||iqiyi.space^
 ||iqu-operation.com^
@@ -10668,6 +10681,8 @@
 ||jsm.39yst.com^
 ||jsm.9939.com^
 ||jsmbaidu.com^
+||jsmsg.video.iqiyi.com^
+||jsmsg.video.qiyi.com^
 ||jsmwd.com^
 ||jsncke.com^
 ||jsnp.golden1.sogou.com^
@@ -11127,6 +11142,7 @@
 ||l.player.ooyala.com^
 ||l.popin.cc^
 ||l.qq.com^
+||l.rcd.iqiyi.com^
 ||l.sharethis.com^
 ||l.supfast.net^
 ||l.ujian.cc^
@@ -11507,6 +11523,7 @@
 ||log.cs.pp.cn^
 ||log.da.hunantv.com^
 ||log.ecgh.dk^
+||log.event.hunantv.com^
 ||log.f-tra.com^
 ||log.fanxing.kugou.com^
 ||log.flight.qunar.com^
@@ -11551,6 +11568,7 @@
 ||log.sina.cn^
 ||log.snapdeal.com^
 ||log.snssdk.com^
+||log.so.hunantv.com^
 ||log.spotify.com^
 ||log.star.ele.me^
 ||log.stat.kugou.com^
@@ -12697,6 +12715,7 @@
 ||mis.g.mi.com^
 ||misdem.pro^
 ||miserintesto.site^
+||mishop.pandora.xiaomi.com^
 ||missevan.com^
 ||mistat.xiaomi.com^
 ||mistats^
@@ -12706,6 +12725,7 @@
 ||miui.hftaili.com^
 ||mivideo.g.mi.com^
 ||miwifi.com^
+||mixer.cupid.iqiyi.com^
 ||mixer.cupid.ptqy.gitv.tv^
 ||mixpanel.com^
 ||mixrnb.net^
@@ -12997,6 +13017,7 @@
 ||msg.push.51y5.net^
 ||msg.qy.net^
 ||msg.shouji.360.cn^
+||msg.video.iqiyi.com^
 ||msg.video.qiyi.com^
 ||msg.youku.com^
 ||msg1.video.qiyi.com^
@@ -13680,6 +13701,7 @@
 ||omgid.qq.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||omgmta.play.ott.video.qq.com^
+||omgmta.qq.com^
 ||omgmta1.qq.com^
 ||omgnjvrjgpeg.com^
 ||omlube.com^
@@ -13736,6 +13758,7 @@
 ||ooredi.com^
 ||ooss.oss.aliyuncs.com^
 ||ooxoatse.com^
+||op.ssp.qq.com^
 ||op00w.baiyangzs.com^
 ||opaalopaa.com^
 ||ope.tanx.com^
@@ -13963,6 +13986,7 @@
 ||p8u.hinet.net^
 ||pababy.cn^
 ||pabhagivene.site^
+||pacaio.match.qq.com^
 ||pacitiesbo.info^
 ||package01.com^
 ||pad.zhywyl.cn^
@@ -14404,6 +14428,7 @@
 ||pkg-cdn.youmi.net^
 ||pkk1.zuimeiniwo.com^
 ||pl.cp31.ott.cibntv.net^
+||pl.youku.com^
 ||pl108258.puserving.com^
 ||pl14369502.puserving.com^
 ||plainplayground.com^
@@ -14465,6 +14490,8 @@
 ||point-of-entry.com^
 ||poke88.com^
 ||poleonaryprac.info^
+||policy.cupid.iqiyi.com^
+||policy.cupid.qiyi.com^
 ||policy.jd.com^
 ||policy.video.iqiyi.com^
 ||polituremil.club^
@@ -15291,6 +15318,7 @@
 ||res.icast.cn^
 ||res.ipingke.com^
 ||res.limei.com^
+||res.mgtv.com^
 ||res.mi.baidu.com^
 ||res.mmstat.com^
 ||res.qhupdate.com^
@@ -16202,6 +16230,8 @@
 ||shouyouyou.com^
 ||show.1688.com^
 ||show.9zwang.com^
+||show.cupid.iqiyi.com^
+||show.cupid.qiyi.com^
 ||show.g.mediav.com^
 ||show.kc.taotaosou.com^
 ||show.look.360.cn^
@@ -16331,6 +16361,7 @@
 ||skyjh.cn^
 ||skype.gmw.cn^
 ||skyttt.com^
+||skyworth-cloud.com^
 ||sl.hpplay.cn^
 ||sl.video.xycdn.n0808.com^
 ||sl.xawjwl.com^
@@ -16765,6 +16796,7 @@
 ||stadig.ifeng.com^
 ||stadig0.ifeng.com^
 ||staging.admin.e.mi.com^
+||staging.ai.api.xiaomi.com^
 ||stags.bluekai.com^
 ||staimpor.net^
 ||stakenpolise.site^
@@ -17627,12 +17659,14 @@
 ||tcss.qq.com^
 ||tctakoh.com^
 ||tcxshop.com^
+||td.atm.youku.com^
 ||td.haoxyx.com^
 ||td.mpush.cn^
 ||td.xue63.com^
 ||td.zgxue.com^
 ||tdain.com^
 ||tdayi.com^
+||tdc.qq.com^
 ||tdcv3.talkingdata.net^
 ||tdep.vacansoleil.fr^
 ||tdf.ringier.ch^
@@ -18039,6 +18073,8 @@
 ||track.contently.com^
 ||track.cooster.ru^
 ||track.cordial.io^
+||track.cupid.iqiyi.com^
+||track.cupid.qiyi.com^
 ||track.derbund.ch^
 ||track.dictionary.com^
 ||track.digitalriver.com^
@@ -18486,6 +18522,7 @@
 ||txwhds.com.cn^
 ||txzs168.net^
 ||ty229.com^
+||tyaqy.m.cn.miaozhen.com^
 ||tydd.hunterwish.cn^
 ||tyh.taobao.com^
 ||tyh887.com^
@@ -18789,6 +18826,7 @@
 ||updatepage.kuwo.cn^
 ||updates-s3.binaryage.com^
 ||upgrade.m.xunlei.com^
+||upgrade.mishop.pandora.xiaomi.com^
 ||upgrade.ptmi.gitv.tv^
 ||upgrade.xl9.xunlei.com^
 ||upheasted.club^
@@ -18915,6 +18953,7 @@
 ||uzyid.cn^
 ||v-links.net^
 ||v-sence.gentags.net^
+||v.admaster.com.cn^
 ||v.aty.sohu.com^
 ||v.center^
 ||v.dbncp.com^
@@ -19126,6 +19165,7 @@
 ||vipicmou.net^
 ||viptv91.cn^
 ||vipwm.cc^
+||viqiyi.admaster.com.cn^
 ||viralvideos.pw^
 ||virashux.net^
 ||virgo8.cn^
@@ -19438,6 +19478,7 @@
 ||web.sogou.com^
 ||web.tmearn.com^
 ||web1.51.la^
+||web2.da.mgtv.com^
 ||web8.net^
 ||webabcd.com^
 ||webbc.fivecdm.com^
@@ -19833,6 +19874,7 @@
 ||www.googleadservices.com^
 ||www.googletagmanager.com^
 ||www.gsxt.gov.cn^
+||www.iqiyi.space^
 ||www.jinshanju.com^
 ||www.kanglingjiu.com^
 ||www.loldyttw.net^
@@ -20650,6 +20692,7 @@
 ||youka.la^
 ||youku-acs.m.taobao.com^
 ||youku-dtv.m.cn.miaozhen.com^
+||youkuad.com^
 ||youle.tom.com^
 ||youle55.com^
 ||youmi.net^
@@ -20692,6 +20735,7 @@
 ||yrxgny.com^
 ||yrxmr.com^
 ||yrzyks.cn^
+||ys.da.mgtv.com^
 ||ys.muhoujiemi.com^
 ||ys1pve.site^
 ||ys2000.cdn.bcebos.com^

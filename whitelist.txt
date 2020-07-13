@@ -1,12 +1,13 @@
  [Adblock Plus 3.0]
- ! Version: 2020071100
-! Title:  Licolnlee's Whitelist
-! Last modified: 2020/07/11 21:24:27 +0800
+ ! Version: 2020071300
+! Title:  Licolnlee's AllowList
+! Last modified: 2020/07/13 21:24:27 +0800
 
 25pp.com
 51240.com
 51cto.com
 8.baidu.com
+a.shifen.com
 accounts.google.com
 acctcdn.msftauth.net
 acg.tv
