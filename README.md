@@ -6,12 +6,6 @@ Update period: Casual
 
 ## Noted:
 AdListLiteTest may have a possibility of manslaughtering dozens of unnecessary domains. Please proceed with caution and report an issue.
- 
-#### AdDomain Lite: 
-> `domain.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt) | [Mirror](https://licolnlee.icu/AdBlockList/domain.txt)
-
-#### AdDomain allowlist lite:
-> `whitelist.txt` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt) | [Mirror](https://licolnlee.icu/AdBlockList/whitelist.txt)
 
 #### AdAllowlist(AdguardHome):
 > `AdAllowlist`   : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist) | [Mirror](https://licolnlee.icu/AdBlockList/AdAllowlist)
@@ -42,6 +36,4 @@ AdListLiteTest may have a possibility of manslaughtering dozens of unnecessary d
 
 #### AdBlock-dnsmasq(Host):
 > `AdBlock-dnsmasq` : [Link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq) | [Mirror](https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq)
-
- This Project has been archived by [Neodevhost project](https://github.com/neodevpro/neodevhost).
 
